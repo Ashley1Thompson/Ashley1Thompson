@@ -7,15 +7,16 @@
 
 - 🌱 I’m currently learning **Ruby 💎 and Python 🐍**
 
-- 👩‍💻 All of my projects are available [here](https://ashley1thompson.github.io/react-portfolio/)
+- 👨‍💻 All of my projects are available at [https://ashley1thompson.github.io/react-portfolio/](https://ashley1thompson.github.io/react-portfolio/)
 
 - 📫 How to reach me **idigthere@gmail.com**
 
-- ⚡ Fun fact! **I transitioned to tech from Archaeology 🦴⛏**
+- ⚡ Fun fact **I transitioned to tech from Archaeology 🦴⛏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ashley1thompson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashley1thompson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/idigthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idigthere" height="30" width="40" /></a>
 <a href="https://instagram.com/idigthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idigthere" height="30" width="40" /></a>
 <a href="https://medium.com/@idigthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@idigthere" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashley1thompson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashley1thompson" height="30" width="40" /></a>
