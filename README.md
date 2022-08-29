@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby 💎 and Python 🐍**
 
-- 👨‍💻 All of my projects are available [here](https://ashley1thompson.github.io/react-portfolio/)
+- 👩‍💻 All of my projects are available [here](https://ashley1thompson.github.io/react-portfolio/)
 
 - 📫 How to reach me **idigthere@gmail.com**
 
