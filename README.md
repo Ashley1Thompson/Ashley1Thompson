@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://ashley1thompson.github.io/)!
 
-- 📫 How to reach me **idigthere@gmail.com**
+- 📫 How to reach me **ashleyathompson52@gmail.com**
 
 - ⚡ Fun fact **I transitioned to tech from Archaeology 🦴⛏**
 
