@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashley</h1>
-<h3 align="center">a technical writer, accessability specialist, developer, and dog enthusiast in the Blue Ridge Mountains.</h3>
+<h3 align="center">a technical writer, accessibility specialist, developer, and dog enthusiast in the Blue Ridge Mountains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashley1thompson&label=Profile%20views&color=0e75b6&style=flat" alt="ashley1thompson" /> </p>
 
